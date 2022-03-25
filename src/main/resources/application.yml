@@ -1,0 +1,5 @@
+server:
+  port: 8089
+
+user-service-url: "http://localhost:8085"
+user-service-path: "/user"
